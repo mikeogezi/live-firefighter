@@ -1,6 +1,6 @@
 var apiKey = 'AIzaSyD7xFbJB99jG3BMQIFJy1mN4kcuxMMlcyU'
 
-var urlBase = 'http://localhost:3000/'
+var urlBase = 'https://livefirefighter.herokuapp.com/'
 
 $(document).ready(function docReadyFunction () {
     function setup () {
