@@ -8,6 +8,7 @@ class Position {
 
         this.lat = lat
         this.lon = lon
+        this.lng = this.lon
 
         this.latInc = 0.08
         this.lonInc = 0.08
