@@ -1,0 +1,7 @@
+{
+    "name": "Team Ivory Website",
+    "description": "Website for NASA Space Apps Challenge by Team Ivory",
+    "repository": "https://github.com/okibeogezi/teamivory",
+    "keywords": ["NASA", "Nodejs"],
+    "image": "heroku/nodejs"
+}

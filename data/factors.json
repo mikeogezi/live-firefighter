@@ -1,0 +1,76 @@
+{
+    "wind_direction": [
+        "N",
+        "NE",
+        "E",
+        "SE",
+        "S",
+        "SW",
+        "W",
+        "NW"
+    ],
+    "wind_intensity": [
+        "very low",
+        "low",
+        "medium",
+        "high",
+        "very high"
+    ],
+    "rainfall": [
+        "available",
+        "unavailable"
+    ],
+    "humidity": [
+        "very low",
+        "low",
+        "medium",
+        "high",
+        "very high"
+    ],
+    "vegetation_availability": [
+        "available",
+        "unavailable"
+    ],
+    "vegetation_direction": [
+        "N",
+        "NE",
+        "E",
+        "SE",
+        "S",
+        "SW",
+        "W",
+        "NW"
+    ],
+    "water_body_availability": [
+        "available",
+        "unavailable"
+    ],
+    "water_body_direction": [
+        "N",
+        "NE",
+        "E",
+        "SE",
+        "S",
+        "SW",
+        "W",
+        "NW"
+    ],
+    "temperature": [
+        "very cold",
+        "cold",
+        "cool",
+        "warm",
+        "hot",
+        "very hot"
+    ],
+    "escape_route_direction": [
+        "N",
+        "NE",
+        "E",
+        "SE",
+        "S",
+        "SW",
+        "W",
+        "NW"
+    ]
+}
